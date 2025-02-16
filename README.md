@@ -1,4 +1,6 @@
-## Hi there 👋
+## Halo semua 👋
+
+Perkenalkan nama saya **Luthfia**.<br>
 
 <!--
 **luthfiatriana/luthfiatriana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
